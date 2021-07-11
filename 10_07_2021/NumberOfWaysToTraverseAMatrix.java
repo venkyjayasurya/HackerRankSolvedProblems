@@ -27,8 +27,6 @@
 
  */
 
-
-
 import java.util.Scanner;
 class NumberOfWaysToTraverseAMatrix {
     static int numberOfPaths(int m, int n)
@@ -42,7 +40,7 @@ class NumberOfWaysToTraverseAMatrix {
         }
         return dp[n - 1];
     }
- 
+
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int m=sc.nextInt();
