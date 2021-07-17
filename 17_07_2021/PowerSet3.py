@@ -18,7 +18,6 @@ a ab abc ac b bc c
 
 Sample Input 1
 aa
-
 Sample Output 1
 a a aa
 '''
