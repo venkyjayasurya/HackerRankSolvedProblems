@@ -21,7 +21,7 @@ Sample Output 0
 5
 
 Explanation 0
-[["a","a","b"],["aa","b"] are the possible pallindromes.
+[["a","a","b"],["aa","b"] are the possible palindromes.
 
 Sample Input 1
 a
